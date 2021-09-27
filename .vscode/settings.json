@@ -1,0 +1,6 @@
+{
+    "editor.mouseWheelZoom": true,
+    "files.associations": {
+        "unordered_map": "cpp"
+    }
+}
